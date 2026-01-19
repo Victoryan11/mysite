@@ -1,3 +1,4 @@
+
 Functional Requirements
 1. The website has only 2 active pages; index and resume
 (completed)
